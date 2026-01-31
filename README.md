@@ -138,5 +138,3 @@ The speed and loop settings only apply when you restart. So change them, then hi
 
 ROS uses: X=forward, Y=left, Z=down (underwater)  
 Unity uses: X=right, Y=up, Z=forward
-
-The scripts handle conversion. If something looks flipped, that's probably why.
