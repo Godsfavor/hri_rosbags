@@ -1,4 +1,4 @@
-# Unity ROSbag Playback System
+# Unity ROSbag GUI Playback System
 
 A Unity project for replaying underwater robot (BlueROV2) recordings. Play back your rosbag files and see what the robot saw and did.
 
